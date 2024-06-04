@@ -17,7 +17,7 @@ const Footer = () => {
             <Link
               style={{ color: "white" }}
               className="nav-link"
-              to={""}
+              to={"https://github.com/PathmaPriyaM/AI-ChatGPT-Clone-Website-Application"}
             >
             Pathma Priya M
             </Link>
